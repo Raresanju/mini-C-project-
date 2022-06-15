@@ -1,0 +1,2 @@
+# mini-C-project-
+The viewers of this calendar program have to give only year, month and day as inputs to display calendar date and Name of Day of week with respect to the Normal calendar.  For example:  if we  give  the inputs as the calendar year is 2016, Month is 8, and day is 21 then this calendar program will display the output as The Date Given is : 21/08/2016 and Day of Week of the Date : Sunday. The below given C program will display (print) Name of Day of week and Date of calendar for any year, month and day.
